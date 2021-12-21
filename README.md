@@ -7,7 +7,6 @@ The methodology employed in the the figure is summerized in the figure below:
 
 <p align = "center">
 <img align="center" src="methodology.png"/>
-<img align="center" src="methodology.png"/>
 </p>
 
 The dataset utillized in this project is a dataset of compound screened against the Dengue Virus 2 (DENV2). It can be found [here](https://pubchem.ncbi.nlm.nih.gov/bioassay/651640#section=Result-Definitions).
