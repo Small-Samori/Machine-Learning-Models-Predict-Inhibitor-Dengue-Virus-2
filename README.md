@@ -26,6 +26,7 @@ The script for each step of the project is saved in separate folders. To reprodu
 
 To run just the training and evaluation of the models, run the `models.py` script in the `7. Build Models folder`. The performance of the model will be saved as text files the `Evaluation` folder.
 The path of the datasets in the `models.py` script can be changed to train and/or test the algorithms on a new dataset.
+The trained models are saved in the `7. Build Models/Models` folder
 
 **Credit**
 
